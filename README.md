@@ -39,7 +39,7 @@ npm run build  # 产出 dist 静态文件
 - `index.html`：应用入口
 - `src/main.js`：主题配置、绘制逻辑、交互
 - `src/styles.css`：页面样式
-- `public/esa.svg`：ESA 说明图
+- `public/O1CN01H1UU3i1Cti9lYtFrs_!!6000000000139-2-tps-7534-844.png`：ESA 说明图
 - `submission.txt`：大赛要求的提交信息模板
 
 ## 版权与合规
