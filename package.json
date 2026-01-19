@@ -1,0 +1,14 @@
+{
+  "name": "avatar-frame-factory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "社交平台头像边框工厂：选择主题（新年/毕业/粉丝应援等），生成带边框的头像图层，支持导出。",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
